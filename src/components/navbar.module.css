@@ -1,0 +1,18 @@
+.navbar_conatiner{
+    width: 100%;
+    height: 70px;
+    
+    background: tomato;
+}
+a{
+  text-decoration: none;
+  color: white;
+  
+}
+.navbar_link{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin-top: 20px; */
+    padding: 20px;
+}
