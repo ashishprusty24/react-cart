@@ -1,27 +1,27 @@
 {
     "menproduct" :[
-        {"id":1,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg" },
-        {"id":2,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16407468/2021/12/28/fce7ca1e-01ec-4c12-a90f-c7b75abda0e01640669480687-Difference-of-Opinion-Men-Tshirts-4021640669480120-1.jpg"},
-        {"id":3,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg"},
-        {"id":4,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1996781/2018/1/9/11515489592861-Roadster-Men-Olive-Green-Solid-Round-Neck-T-shirt-1551515489592784-3.jpg"},
-        {"id":5,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10424668/2020/6/17/402480cc-573e-4691-82cd-be264a6ad0411592390342880-Roadster-Men-Tshirts-651592390341183-1.jpg"},
-        {"id":6,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/2/6/1a340c1e-d6e0-4430-8b35-717ba5426f511580945402271-1.jpg"},
-        {"id":7,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10862264/2020/4/6/495bb975-184c-44d1-a08b-9c206209b1231586163106945-Nautica-Men-Tshirts-4931586163105452-1.jpg"},
-        {"id":8,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17979846/2022/5/5/28b79d4c-4f00-40c9-8f5d-74f1de29fdc91651747880261-Van-Heusen-Men-Tshirts-3201651747879804-1.jpg"},
-        {"id":9,  "name" : "tshirt" , "price" : 341, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg"}
+        {"id":1,  "name" : "tshirt" , "price" : 341, "qty" :1, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg" },
+        {"id":2,  "name" : "tshirt" , "price" : 341,"qty" :1, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16407468/2021/12/28/fce7ca1e-01ec-4c12-a90f-c7b75abda0e01640669480687-Difference-of-Opinion-Men-Tshirts-4021640669480120-1.jpg"},
+        {"id":3,  "name" : "tshirt" , "price" : 341,"qty" :1, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg"},
+        {"id":4,  "name" : "tshirt" , "price" : 341,"qty" :1, "img" :"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1996781/2018/1/9/11515489592861-Roadster-Men-Olive-Green-Solid-Round-Neck-T-shirt-1551515489592784-3.jpg"},
+        {"id":5,  "name" : "tshirt" , "price" : 341, "qty" :1,"img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10424668/2020/6/17/402480cc-573e-4691-82cd-be264a6ad0411592390342880-Roadster-Men-Tshirts-651592390341183-1.jpg"},
+        {"id":6,  "name" : "tshirt" , "price" : 341, "qty" :1,"img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/2/6/1a340c1e-d6e0-4430-8b35-717ba5426f511580945402271-1.jpg"},
+        {"id":7,  "name" : "tshirt" , "price" : 341,"qty" :1, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10862264/2020/4/6/495bb975-184c-44d1-a08b-9c206209b1231586163106945-Nautica-Men-Tshirts-4931586163105452-1.jpg"},
+        {"id":8,  "name" : "tshirt" , "price" : 341,"qty" :1, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17979846/2022/5/5/28b79d4c-4f00-40c9-8f5d-74f1de29fdc91651747880261-Van-Heusen-Men-Tshirts-3201651747879804-1.jpg"},
+        {"id":9,  "name" : "tshirt" , "price" : 341,"qty" :1, "img" :"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg"}
         
     ],
 
     "womenproduct" : [
-        {"id":1,  "name" : "zeans" , "price" : 428 , "img" : "https://rukminim1.flixcart.com/image/495/594/ktd9mkw0/kurta/u/l/s/m-101-bottlegreenkurta-mf-hayat-original-imag6qjeehydzpgu.jpeg?q=50"},
-        {"id":2,  "name" : "zeans" , "price" : 428 , "img" : "https://rukminim1.flixcart.com/image/495/594/kve530w0/shopsy-kurta/3/v/2/m-n103-nayera-fashion-original-imag8ayzj5fhgnyc.jpeg?q=50" },
-        {"id":3,  "name" : "zeans" , "price" : 428, "img" : "https://rukminim1.flixcart.com/image/495/594/ksoz53k0/kurta/y/x/s/xl-ku661pnk-mokshi-original-imag67hqzqd6z7nv.jpeg?q=50"},
-        {"id":4,  "name" : "zeans" , "price" : 428, "img" : "https://rukminim1.flixcart.com/image/495/594/l3ahpjk0/dress/j/t/4/3xl-green-maternity-lojimaa-original-imagegcq8hwhgnbh.jpeg?q=50" },
-        {"id":5,  "name" : "zeans" , "price" : 428,"img" : "https://rukminim1.flixcart.com/image/495/594/kyq62kw0/kurta/e/3/8/xl-suit0037-the-familiar-handicrafts-original-imagawa3drgvj78b.jpeg?q=50"},
-        {"id":6,  "name" : "zeans" , "price" : 428, "img" : "https://rukminim1.flixcart.com/image/495/594/kyq62kw0/kurta/j/c/2/m-suit0020-the-familiar-handicrafts-original-imagawa3hfztxesh.jpeg?q=50" },
-        {"id":7,  "name" : "zeans" , "price" : 428 , "img" : "https://rukminim1.flixcart.com/image/495/594/ku4ezrk0/shopsy-top/p/6/b/s-cb-131-black-chokhi-bandhni-original-imag7bk3zhfy6ezg.jpeg?q=50"},
-        {"id":8,  "name" : "zeans" , "price" : 428, "img" : "https://rukminim1.flixcart.com/image/495/594/l251xu80/kurta/u/6/b/l-kurti-kdr-textiles-original-imagdjnj4zbcqsyu.jpeg?q=50" },
-        {"id":9,  "name" : "zeans" , "price" : 428, "img" : "https://rukminim1.flixcart.com/image/495/594/l13whow0/kurta/s/s/s/xl-darkau-krishna-darkau-original-imagcqyypyjgjscw.jpeg?q=50" }
+        {"id":1,  "name" : "zeans" , "price" : 428 ,"qty" :1, "img" : "https://rukminim1.flixcart.com/image/495/594/ktd9mkw0/kurta/u/l/s/m-101-bottlegreenkurta-mf-hayat-original-imag6qjeehydzpgu.jpeg?q=50"},
+        {"id":2,  "name" : "zeans" , "price" : 428 ,"qty" :1, "img" : "https://rukminim1.flixcart.com/image/495/594/kve530w0/shopsy-kurta/3/v/2/m-n103-nayera-fashion-original-imag8ayzj5fhgnyc.jpeg?q=50" },
+        {"id":3,  "name" : "zeans" , "price" : 428,"qty" :1, "img" : "https://rukminim1.flixcart.com/image/495/594/ksoz53k0/kurta/y/x/s/xl-ku661pnk-mokshi-original-imag67hqzqd6z7nv.jpeg?q=50"},
+        {"id":4,  "name" : "zeans" , "price" : 428,"qty" :1, "img" : "https://rukminim1.flixcart.com/image/495/594/l3ahpjk0/dress/j/t/4/3xl-green-maternity-lojimaa-original-imagegcq8hwhgnbh.jpeg?q=50" },
+        {"id":5,  "name" : "zeans" , "price" : 428,"qty" :1,"img" : "https://rukminim1.flixcart.com/image/495/594/kyq62kw0/kurta/e/3/8/xl-suit0037-the-familiar-handicrafts-original-imagawa3drgvj78b.jpeg?q=50"},
+        {"id":6,  "name" : "zeans" , "price" : 428,"qty" :1, "img" : "https://rukminim1.flixcart.com/image/495/594/kyq62kw0/kurta/j/c/2/m-suit0020-the-familiar-handicrafts-original-imagawa3hfztxesh.jpeg?q=50" },
+        {"id":7,  "name" : "zeans" , "price" : 428 , "qty" :1,"img" : "https://rukminim1.flixcart.com/image/495/594/ku4ezrk0/shopsy-top/p/6/b/s-cb-131-black-chokhi-bandhni-original-imag7bk3zhfy6ezg.jpeg?q=50"},
+        {"id":8,  "name" : "zeans" , "price" : 428,"qty" :1, "img" : "https://rukminim1.flixcart.com/image/495/594/l251xu80/kurta/u/6/b/l-kurti-kdr-textiles-original-imagdjnj4zbcqsyu.jpeg?q=50" },
+        {"id":9,  "name" : "zeans" , "price" : 428,"qty" :1, "img" : "https://rukminim1.flixcart.com/image/495/594/l13whow0/kurta/s/s/s/xl-darkau-krishna-darkau-original-imagcqyypyjgjscw.jpeg?q=50" }
       
     ]
 }
